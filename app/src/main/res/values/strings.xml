@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chapter07_LayoutXML</string>
+    <string name="textview">Hello World Android!</string>
+    <string name="button">Click me!</string>
+</resources>
